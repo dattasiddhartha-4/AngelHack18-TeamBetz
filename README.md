@@ -1,5 +1,3 @@
-# WaveRider
+# "WaveRider"
 
-Game betting platform using WAVE platform
-"# AngelHack2018" 
-"# Betz" 
+Using WAVE blockchain token to execute a game betting platform for AngelHack2018.
